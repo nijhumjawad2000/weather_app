@@ -1,0 +1,36 @@
+body{
+    background-image: url("http://exchangedownloads.smarttech.com/public/content/4c/4c26e305-f817-45b4-b043-16bf458945bd/previews/medium/0001.png");
+    background-position: centre;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body *{
+    margin-bottom: 5vh;
+}
+.cityTitle{
+color: white;
+background-color:blue;
+box-shadow: 4px skyblue;
+}
+.weather{
+    color: blue;
+    font-size: 30px;
+}
+h1{
+    color: blueviolet;
+}
+.convert{
+    background-color: black;
+    color: white;
+}
+.temp{
+    color: rgb(80, 5, 5);
+    font-size: 30px;
+}
+.humid{
+    color: rgb(194, 31, 31);
+    font-size: 30px;
+}
